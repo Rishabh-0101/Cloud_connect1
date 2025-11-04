@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    display: flex;
+   
+}
+
+.box1,.box5,.box6,.box7{
+    width: 10%;
+    
+
+.box1{
+    background-image: url("https://rfslogodesign.com/storage/blogs/tinymceUploads/Xh8s233GLQVzJWWzBXedAP2JBwwkCBspkGVf4UZX.jpg");
+    background-size: cover;
+}
+
+.box3{
+    display: flex;
+}
+
+
+
+
+
+
+
+
